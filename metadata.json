@@ -1,0 +1,8 @@
+{
+  "name": "NAVEEN - Engineering Portfolio",
+  "description": "A Netflix-inspired cinematic portfolio for Naveen, featuring high-end animations, a 3D visual identity, and strategic technical content.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
